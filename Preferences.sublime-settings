@@ -11,6 +11,7 @@
 "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
 "line_padding_bottom": 1,
 "line_padding_top": 1,
+"copy_with_empty_selection": false,
 
 // don't worry about last comma
 "foo": "bar"
